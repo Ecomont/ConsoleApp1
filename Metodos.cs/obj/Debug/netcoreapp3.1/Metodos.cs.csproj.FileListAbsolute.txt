@@ -1,0 +1,13 @@
+C:\Users\hector\source\repos\ConsoleApp1\Metodos.cs\bin\Debug\netcoreapp3.1\Metodos.cs.exe
+C:\Users\hector\source\repos\ConsoleApp1\Metodos.cs\bin\Debug\netcoreapp3.1\Metodos.cs.deps.json
+C:\Users\hector\source\repos\ConsoleApp1\Metodos.cs\bin\Debug\netcoreapp3.1\Metodos.cs.runtimeconfig.json
+C:\Users\hector\source\repos\ConsoleApp1\Metodos.cs\bin\Debug\netcoreapp3.1\Metodos.cs.runtimeconfig.dev.json
+C:\Users\hector\source\repos\ConsoleApp1\Metodos.cs\bin\Debug\netcoreapp3.1\Metodos.cs.dll
+C:\Users\hector\source\repos\ConsoleApp1\Metodos.cs\bin\Debug\netcoreapp3.1\Metodos.cs.pdb
+C:\Users\hector\source\repos\ConsoleApp1\Metodos.cs\obj\Debug\netcoreapp3.1\Metodos.cs.csprojAssemblyReference.cache
+C:\Users\hector\source\repos\ConsoleApp1\Metodos.cs\obj\Debug\netcoreapp3.1\Metodos.cs.AssemblyInfoInputs.cache
+C:\Users\hector\source\repos\ConsoleApp1\Metodos.cs\obj\Debug\netcoreapp3.1\Metodos.cs.AssemblyInfo.cs
+C:\Users\hector\source\repos\ConsoleApp1\Metodos.cs\obj\Debug\netcoreapp3.1\Metodos.cs.csproj.CoreCompileInputs.cache
+C:\Users\hector\source\repos\ConsoleApp1\Metodos.cs\obj\Debug\netcoreapp3.1\Metodos.cs.dll
+C:\Users\hector\source\repos\ConsoleApp1\Metodos.cs\obj\Debug\netcoreapp3.1\Metodos.cs.pdb
+C:\Users\hector\source\repos\ConsoleApp1\Metodos.cs\obj\Debug\netcoreapp3.1\Metodos.cs.genruntimeconfig.cache
